@@ -1,0 +1,33 @@
+h1 {
+  color: blue;
+  text-align: center;
+}
+h2 {
+  color: green;
+  font-style: italic;
+  text-align: center;
+}
+p {
+  font-family: sans-serif;
+}
+ul{
+  line-height: 40PX;
+}
+body{
+  background-color: rgba(245, 237, 237, 0.705);
+}
+img{
+  border-radius: 50%;
+  width: 100px;
+}
+img:hover {
+  box-shadow: 0 0 2px 1px rgba(0, 140, 186, 0.5);
+}
+</style>
+<body>
+
+<a target="_blank" href="img_forest.jpg">
+  <img src="img_forest.jpg" alt="Forest">
+</a>
+
+</body>
